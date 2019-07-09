@@ -12,7 +12,7 @@ namespace Back_End_API.Models
 
         [Required]
         [StringLength(50)]
-        public string ParentTask_Desc { get; set; }
+        public string ParentTaskDesc { get; set; }
 
         //public virtual ICollection<UserTask> UserTasks { get; set; }
     }

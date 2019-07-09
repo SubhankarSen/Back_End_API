@@ -14,17 +14,17 @@ namespace Back_End_API.Models
 
         [Required]
         [StringLength(50)]
-        public string Project_Desc { get; set; }
+        public string ProjectDesc { get; set; }
 
         [DataType(DataType.Date)]
         [DisplayFormat(DataFormatString = "{0:yyyy-mm-dd}", ApplyFormatInEditMode = true)]
-        public DateTime ProjStart_Date { get; set; }
+        public DateTime ProjStartDate { get; set; }
 
         [DataType(DataType.Date)]
         [DisplayFormat(DataFormatString = "{0:yyyy-mm-dd}", ApplyFormatInEditMode = true)]
-        public DateTime ProjEnd_Date { get; set; }
+        public DateTime ProjEndDate { get; set; }
 
-        public int Proj_Priority { get; set; }
+        public int ProjPriority { get; set; }
 
         public int UserID { get; set; }
 
