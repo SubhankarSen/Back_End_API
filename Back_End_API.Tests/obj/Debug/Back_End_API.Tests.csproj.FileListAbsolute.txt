@@ -44,12 +44,3 @@ C:\Users\subha\OneDrive\Documents\Visual Studio Projects\FSD_Final_Project\Back_
 C:\Users\subha\OneDrive\Documents\Visual Studio Projects\FSD_Final_Project\Back_End_API\Back_End_API\Back_End_API.Tests\bin\Debug\System.Web.Http.Cors.dll
 C:\Users\subha\OneDrive\Documents\Visual Studio Projects\FSD_Final_Project\Back_End_API\Back_End_API\Back_End_API.Tests\bin\Debug\System.Web.Cors.dll
 C:\Users\subha\OneDrive\Documents\Visual Studio Projects\FSD_Final_Project\Back_End_API\Back_End_API\Back_End_API.Tests\bin\Debug\System.Web.Http.Cors.xml
-C:\Users\subha\OneDrive\Documents\Visual Studio Projects\FSD_Final_Project\Back_End_API\Back_End_API\Back_End_API.Tests\bin\Debug\NUnit3.TestAdapter.dll
-C:\Users\subha\OneDrive\Documents\Visual Studio Projects\FSD_Final_Project\Back_End_API\Back_End_API\Back_End_API.Tests\bin\Debug\NUnit3.TestAdapter.pdb
-C:\Users\subha\OneDrive\Documents\Visual Studio Projects\FSD_Final_Project\Back_End_API\Back_End_API\Back_End_API.Tests\bin\Debug\nunit.engine.dll
-C:\Users\subha\OneDrive\Documents\Visual Studio Projects\FSD_Final_Project\Back_End_API\Back_End_API\Back_End_API.Tests\bin\Debug\nunit.engine.api.dll
-C:\Users\subha\OneDrive\Documents\Visual Studio Projects\FSD_Final_Project\Back_End_API\Back_End_API\Back_End_API.Tests\bin\Debug\nunit.framework.dll
-C:\Users\subha\OneDrive\Documents\Visual Studio Projects\FSD_Final_Project\Back_End_API\Back_End_API\Back_End_API.Tests\bin\Debug\nunit.framework.pdb
-C:\Users\subha\OneDrive\Documents\Visual Studio Projects\FSD_Final_Project\Back_End_API\Back_End_API\Back_End_API.Tests\bin\Debug\nunit.framework.xml
-C:\Users\subha\OneDrive\Documents\Visual Studio Projects\FSD_Final_Project\Back_End_API\Back_End_API\Back_End_API.Tests\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\subha\OneDrive\Documents\Visual Studio Projects\FSD_Final_Project\Back_End_API\Back_End_API\Back_End_API.Tests\bin\Debug\EntityFramework.SqlServer.xml
