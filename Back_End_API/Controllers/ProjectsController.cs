@@ -18,9 +18,9 @@ namespace Back_End_API.Controllers
         private Back_End_APIContext db = new Back_End_APIContext();
 
         // GET: api/Projects
-        public IQueryable<Project> GetProjects()
+        public List<Project> GetProjects()
         {
-            return db.Projects;
+            return db.Projects.ToList();
         }
 
         // GET: api/Projects/5

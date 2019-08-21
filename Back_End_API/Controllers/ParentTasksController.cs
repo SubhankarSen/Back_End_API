@@ -18,9 +18,9 @@ namespace Back_End_API.Controllers
         private Back_End_APIContext db = new Back_End_APIContext();
 
         // GET: api/ParentTasks
-        public IQueryable<ParentTask> GetParentTasks()
+        public List<ParentTask> GetParentTasks()
         {
-            return db.ParentTasks;
+            return db.ParentTasks.ToList();
         }
 
         // GET: api/ParentTasks/5

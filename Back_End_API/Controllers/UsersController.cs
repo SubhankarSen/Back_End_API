@@ -18,9 +18,9 @@ namespace Back_End_API.Controllers
         private Back_End_APIContext db = new Back_End_APIContext();
 
         // GET: api/Users
-        public IQueryable<User> GetUsers()
+        public List<User> GetUsers()
         {
-            return db.Users;
+            return db.Users.ToList();
         }
 
         // GET: api/Users/5
